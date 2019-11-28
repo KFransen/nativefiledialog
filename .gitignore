@@ -186,3 +186,25 @@ FakesAssemblies/
 *.vcxproj.filters
 *.VC.db
 *.sln
+
+.vs/
+/bin/
+/bin-int/
+
+# Files
+*.user
+*.sln
+*.vcxproj
+*.filters
+Makefile
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+/out
+
+
+*.dat
+*.sln.DotSettings
